@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title><![CDATA[哈尔滨工业大学开源镜像站博客]]></title>
+  
+  <link href="/blogspace-webhooks-test/atom.xml" rel="self"/>
+  <link href="http://dontpanic92.github.io/blogspace-webhooks-test/"/>
+  <updated>2015-11-08T03:32:07.836Z</updated>
+  <id>http://dontpanic92.github.io/blogspace-webhooks-test/</id>
+  
+  <author>
+    <name><![CDATA[Shengqiu Li]]></name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title><![CDATA[磁盘阵列已修复完毕]]></title>
+    <link href="http://dontpanic92.github.io/blogspace-webhooks-test/2015/10/22/diskarray-is-back/"/>
+    <id>http://dontpanic92.github.io/blogspace-webhooks-test/2015/10/22/diskarray-is-back/</id>
+    <published>2015-10-22T03:38:00.000Z</published>
+    <updated>2015-11-08T03:32:07.836Z</updated>
+    <content type="html"><![CDATA[<p>磁盘君已经回来了，镜像源恢复正常。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>磁盘君已经回来了，镜像源恢复正常。</p>
+]]>
+    </summary>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[磁盘阵列损坏]]></title>
+    <link href="http://dontpanic92.github.io/blogspace-webhooks-test/2015/10/19/diskarray-is-missing/"/>
+    <id>http://dontpanic92.github.io/blogspace-webhooks-test/2015/10/19/diskarray-is-missing/</id>
+    <published>2015-10-19T08:50:44.000Z</published>
+    <updated>2015-11-08T03:32:07.816Z</updated>
+    <content type="html"><![CDATA[<p>目前镜像源服务器的磁盘阵列没有连接，导致所有仓库全部404，ftp同样无法访问。此问题已反馈至网络中心，请大家耐心等待。</p>
+<p>10月20日更新</p>
+<p>已确认磁盘阵列损坏，厂家正在维修。╮(╯▽╰)╭</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>目前镜像源服务器的磁盘阵列没有连接，导致所有仓库全部404，ftp同样无法访问。此问题已反馈至网络中心，请大家耐心等待。</p>
+<p>10月20日更新</p>
+<p>已确认磁盘阵列损坏，厂家正在维修。╮(╯▽╰)╭</p>
+]]>
+    </summary>
+    
+      <category term="announcement" scheme="http://dontpanic92.github.io/blogspace-webhooks-test/tags/announcement/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[镜像源服务器流出数据已恢复正常]]></title>
+    <link href="http://dontpanic92.github.io/blogspace-webhooks-test/2015/09/02/working-normally-now/"/>
+    <id>http://dontpanic92.github.io/blogspace-webhooks-test/2015/09/02/working-normally-now/</id>
+    <published>2015-09-01T17:25:33.000Z</published>
+    <updated>2015-11-08T03:32:07.860Z</updated>
+    <content type="html"><![CDATA[<p>目前镜像源服务器的流出数据已无关键词过滤情况，可以正常使用。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>目前镜像源服务器的流出数据已无关键词过滤情况，可以正常使用。</p>
+]]>
+    </summary>
+    
+      <category term="announcement" scheme="http://dontpanic92.github.io/blogspace-webhooks-test/tags/announcement/"/>
+    
+  </entry>
+  
+  <entry>
+    <title><![CDATA[敏感词过滤导致下载文件损坏]]></title>
+    <link href="http://dontpanic92.github.io/blogspace-webhooks-test/2015/08/23/keyword-filtered-problem/"/>
+    <id>http://dontpanic92.github.io/blogspace-webhooks-test/2015/08/23/keyword-filtered-problem/</id>
+    <published>2015-08-23T08:52:01.000Z</published>
+    <updated>2015-11-08T03:32:07.870Z</updated>
+    <content type="html"><![CDATA[<p>近期镜像源服务器的少数文件下载时经常存在损坏的情况。经过艰苦卓绝地排查，最终发现校内的服务器的流出数据被进行了敏感词过滤（已探明的包括工大邮件服务器）。<br><br><br><img src="/blogspace-webhooks-test/2015/08/23/keyword-filtered-problem/keywords_filtered.png" alt="[keywords_filtered]" title="[keywords_filtered]"><br><br><br>目前尚不清楚这样的情况是否会发展为常态，请大家临时切换至其他镜像源。</p>
+]]></content>
+    <summary type="html">
+    <![CDATA[<p>近期镜像源服务器的少数文件下载时经常存在损坏的情况。经过艰苦卓绝地排查，最终发现校内的服务器的流出数据被进行了敏感词过滤（已探明的包括工大邮件服务器）。<br><br><br><img src="/blogspace-webhooks-test/2015/08/23/key]]>
+    </summary>
+    
+      <category term="announcement" scheme="http://dontpanic92.github.io/blogspace-webhooks-test/tags/announcement/"/>
+    
+  </entry>
+  
+</feed>
